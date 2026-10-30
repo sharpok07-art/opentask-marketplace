@@ -1,0 +1,13 @@
+OpenTask Marketplace MVP v0.1 - SHA-256 Manifest
+Audit baseline SHA-256: 2e31c26c0feb2cdce46b424ee4ad6e8c25c0f72caf2bc82d5a7758d7dcaf0ea9
+
+OpenTask_Marketplace_MVP_v0.1_final.html
+  Size: 17199 bytes
+  SHA-256: 2e31c26c0feb2cdce46b424ee4ad6e8c25c0f72caf2bc82d5a7758d7dcaf0ea9
+
+index.html
+  Size: 17199 bytes
+  SHA-256: 2e31c26c0feb2cdce46b424ee4ad6e8c25c0f72caf2bc82d5a7758d7dcaf0ea9
+
+Verification: both HTML files are byte-for-byte identical (cmp) and match the
+audit baseline SHA-256 above. No deployment performed. Source files unmodified.
